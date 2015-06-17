@@ -1,0 +1,34 @@
+﻿Build started 6/3/2015 11:22:39 AM.
+     1>Project "C:\Users\Allon\Desktop\RockFinger 2.4.5 - final\RockFinger\RockFinger.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(149): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(280): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(342): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(344): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(379): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(387): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(391): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(404): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(409): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(404) : definition of 'i' ignored
+                 c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(351) : definition of 'i' used
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(443): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(464): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(479): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(482): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(494): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(494): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(508): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(518): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(572): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\allon\desktop\rockfinger 2.4.5 - final\rockfinger\main.cpp(332): warning C4101: 'result' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Allon\Desktop\RockFinger 2.4.5 - final\Debug\RockFinger.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x86\vc12\lib opencv_core2410d.lib opencv_imgproc2410d.lib opencv_highgui2410d.lib opencv_ml2410d.lib opencv_video2410d.lib opencv_features2d2410d.lib opencv_calib3d2410d.lib opencv_objdetect2410d.lib opencv_contrib2410d.lib opencv_legacy2410d.lib opencv_flann2410d.lib opencv_nonfree2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Allon\Desktop\RockFinger 2.4.5 - final\Debug\RockFinger.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Allon\Desktop\RockFinger 2.4.5 - final\Debug\RockFinger.lib" /MACHINE:X86 Debug\main.obj
+         RockFinger.vcxproj -> C:\Users\Allon\Desktop\RockFinger 2.4.5 - final\Debug\RockFinger.exe
+     1>Done Building Project "C:\Users\Allon\Desktop\RockFinger 2.4.5 - final\RockFinger\RockFinger.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.42
